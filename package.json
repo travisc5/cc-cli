@@ -37,6 +37,6 @@
   "homepage": "https://github.com/travisc5/cc-cli",
   "preferGlobal": true,
   "bin": {
-    "lws": "commands/lws"
+    "cc": "commands/cc"
   }
 }
